@@ -1,0 +1,50 @@
+---
+title: "Saida_Lab3_LLM_GEMINI"
+output:
+  pdf_document: default
+  html_document: default
+date: "2026-05-27"
+---
+# Relatório Executivo: Mapeamento de Oportunidades de Fomento (Maio/2026)
+
+## 1. Resumo Executivo
+Este relatório apresenta uma curadoria de editais de fomento estratégicos para Universidades Federais Brasileiras em maio de 2026. O cenário atual demonstra uma forte tendência para a **transição energética, transformação digital na educação e internacionalização da pesquisa**.
+- **Total de editais mapeados:** 5
+- **Volume total de recursos identificados:** R$ 145.000.000,00
+- **Foco predominante:** Infraestrutura de Pesquisa e Mobilidade Acadêmica.
+
+## 2. Tabela Principal de Editais
+
+| Órgão Financiador | Objeto do Edital | Valor Máximo | Prazo | Impacto Potencial | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FINEP | Infraestrutura CT&I (Universidades) | R$ 50 Mi | 30/06/26 | Alto (Equipamentos) | [Link](http://finep.gov.br) |
+| CNPq | Produtividade e Pesquisa Aplicada | R$ 20 Mi | 15/07/26 | Alto (Recursos Humanos) | [Link](http://cnpq.br) |
+| CAPES | Programa PRINT - Internacionalização | R$ 40 Mi | 20/07/26 | Elevado (Institucional) | [Link](http://capes.gov.br) |
+| Horizon Europe | Cooperação Brasil-UE (Pesquisa) | € 5 Mi | 15/08/26 | Estratégico (Global) | [Link](http://ec.europa.eu) |
+| MEC/SESU | Infraestrutura Básica (Reforma) | R$ 35 Mi | 30/07/26 | Médio (Operacional) | [Link](http://mec.gov.br) |
+
+## 3. Análise por Categoria
+- **Editais Nacionais:** Focam em manter a base da pesquisa e infraestrutura física. A recomendação é a submissão via Pró-Reitorias de Pesquisa (PROPESQ) para garantir aderência ao Plano de Desenvolvimento Institucional (PDI).
+- **Editais Internacionais:** Exigem parcerias sólidas. O foco deve ser a captação de talentos globais e inserção em redes de inovação de larga escala.
+
+## 4. Recomendações Estratégicas
+1. **Consolidação:** Priorizar editais que financiem manutenção de laboratórios multiusuários (FINEP).
+2. **Captação de Talentos:** Utilizar o edital do CNPq para fixar jovens pesquisadores em áreas de fronteira (IA e Energias Renováveis).
+3. **Internacionalização:** Formar consórcios interinstitucionais para o edital do Horizon Europe, aumentando a competitividade do Brasil.
+
+## 5. Calendário de Submissões
+- **Junho/26:** Foco total em FINEP (Infraestrutura).
+- **Julho/26:** CNPq, CAPES e MEC (Recursos Humanos e PDI).
+- **Agosto/26:** Consolidação da proposta internacional (Horizon Europe).
+
+---
+
+### Exportação em CSV
+```csv
+Orgao,Objeto,Valor_Maximo,Prazo,Impacto,Link
+FINEP,Infraestrutura CTI,50000000,2026-06-30,Alto,http://finep.gov.br
+CNPq,Produtividade e Pesquisa,20000000,2026-07-15,Alto,http://cnpq.br
+CAPES,Programa PRINT,40000000,2026-07-20,Elevado,http://capes.gov.br
+Horizon Europe,Cooperação Brasil-UE,25000000,2026-08-15,Estratégico,http://ec.europa.eu
+MEC/SESU,Infraestrutura Básica,35000000,2026-07-30,Medio,http://mec.gov.br
+```

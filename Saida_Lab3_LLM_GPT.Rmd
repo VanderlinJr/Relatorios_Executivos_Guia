@@ -1,0 +1,69 @@
+---
+title: "Saida_Lab3_LLM_GPT"
+output:
+  pdf_document: default
+  html_document: default
+date: "2026-05-27"
+---
+
+# Relatório Executivo sobre Editais de Fomento para Universidades Federais
+
+## Resumo Executivo
+
+Este relatório compila uma análise de editais de fomento direcionados a universidades federais brasileiras, apresentando oportunidades de financiamento que visam fortalecer a pesquisa e a inovação nas instituições de ensino superior. Os editais abordados neste documento foram filtrados com base em sua adequação aos interesses e objetivos estratégicos das universidades federais.
+
+### Estatísticas Gerais
+
+-   **Total de Editais Analisados**: 5
+-   **Porcentagem de Editais Nacionais**: 60%
+-   **Porcentagem de Editais Internacionais**: 40%
+-   **Valor Total Máximo de Financiamento**: Variável, dependente do edital específico.
+
+## Tabela Principal de Editais
+
+| Órgão Financiador | Objeto do Edital | Valor Máximo do Financiamento | Prazo de Submissão | Impacto Potencial |
+|-------------|--------------------|-------------|-------------|-------------|
+| CNPq | Chamada CNPq/MCTI/MEMP Nº 5/2026 | Não especificado | Até 30/06/2026 | Médio - Novos núcleos de inovação |
+| CAPES | Oportunidades na Plataforma Bertha Lutz | Não especificado | Variável | Alto - Fortalecimento da articulação |
+| Finep | ProInfra | R\$ 1 bilhão | Até 31/12/2026 | Alto - Melhoria da infraestrutura |
+| DAAD | Academic Horizons | Não especificado | Variável | Alto - Enriquecimento acadêmico |
+| Horizon Europe | Redes de Pesquisa e Inovação | Não especificado | Variável | Alto - Aumento de visibilidade |
+
+## Análise por Categoria
+
+### Nacionais
+
+-   **CNPq, CAPES, Finep**: Editais com foco no desenvolvimento de infraestrutura e inovação, com potencial alto para iniciativas que promovam a pesquisa aplicada e a articulação entre a academia e a sociedade.
+
+### Internacionais
+
+-   **DAAD, Horizon Europe**: Editais que promovem a internacionalização e colaboração entre instituições, proporcionando magníficas oportunidades de desenvolvimento acadêmico e diversificação de projetos de pesquisa.
+
+## Recomendações Estratégicas
+
+1.  **Alinhamento com Prioridades Institucionais**: Cada universidade deve avaliar os editais em função de seus objetivos estratégicos, priorizando aqueles que podem impulsionar suas áreas de pesquisa mais relevantes.
+2.  **Capacitação em Propostas**: Criar programas de capacitação para as equipes que irão trabalhar na elaboração das propostas, especialmente para editais com complexidade elevada.
+3.  **Parcerias Institucionais**: incentivar a formação de parcerias, tanto internas como externas, para fortalecer as propostas enviadas a editais internacionais.
+
+## Calendário de Submissões Prioritárias
+
+| Edital         | Data de Submissão |
+|----------------|-------------------|
+| CNPq           | Até 30/06/2026    |
+| Finep          | Até 31/12/2026    |
+| DAAD           | Variável          |
+| Horizon Europe | Variável          |
+
+### Links para os Editais
+
+-   [CNPq](http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=13365)
+-   [Plataforma Bertha Lutz](https://bertha.capes.gov.br/oportunidades)
+-   [Finep](https://finep.gov.br/w/7085-mcti-e-finep-anunciam-dois-editais-do-proinfra-com-r-1-bilhao-de-investimentos)
+-   [DAAD Academic Horizons](https://www.daad.de/en/press-releases/ausschreibung-programm-academic-horizons-zur-gewinnung-internationaler-talente/)
+-   [Horizon Europe](https://rededepesquisa.fgv.br/en/horizon-europe)
+
+------------------------------------------------------------------------
+
+# CSV Format
+
+Órgão Financiador,Objeto do Edital,Valor Máximo do Financiamento,Prazo de Submissão,Impacto Potencial CNPq,Chamada CNPq/MCTI/MEMP Nº 5/2026,N/A,Ate 30/06/2026,Médio - Novos núcleos de inovação CAPES,Oportunidades na Plataforma Bertha Lutz,N/A,Variável,Alto - Fortalecimento da articulação Finep,ProInfra,R\$ 1 bilhão,Ate 31/12/2026,Alto - Melhoria da infraestrutura DAAD,Academic Horizons,N/A,Variável,Alto - Enriquecimento acadêmico Horizon Europe,Redes de Pesquisa e Inovação,N/A,Variável,Alto - Aumento de visibilidade
